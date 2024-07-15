@@ -19,3 +19,25 @@
     text-decoration: none;
     color: #91DDCF;
 }
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-image: url(images/herooo.jpeg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero button{
+    padding: 20px 30px;
+    color: white;
+    background-color: #E8C5E5;
+    border: none;
+    border-radius: 20px;
+}
+.hero h1{
+    color: white;
+}
