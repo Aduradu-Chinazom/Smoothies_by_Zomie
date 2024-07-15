@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F19ED2;
+    align-items: center;
+}
+.nav_text{
+    display: flex;
+    gap: 30px;
+}
+.nav_text li{
+    list-style: none;
+}
+.nav_text li a{
+    text-decoration: none;
+    color: #91DDCF;
+}
