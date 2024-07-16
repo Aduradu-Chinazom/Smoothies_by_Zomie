@@ -41,3 +41,27 @@
 .hero h1{
     color: white;
 }
+#rev_h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #F19ED2;
+}
+.reviews{
+display: flex;
+background-color: #91DDCF;
+width: 100%;
+}
+.rev{
+    width: 33.3%;
+    height: 150px;
+    background-color: #E8C5E5;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.rev img{
+    width: 100px;
+    height: 100px;
+}
